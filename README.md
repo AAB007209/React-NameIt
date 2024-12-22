@@ -4,6 +4,7 @@ NameIt is a simple and engaging React application designed to generate creative 
 ### Features
 - Name Suggestions: Input a word or phrase, and the app generates a list of creative names.
 - Dynamic UI Updates: The app displays name suggestions instantly as you type.
+- Domain Availability: Click on any suggested name to be redirected to the Namecheap website, where you can check the availability and purchase the domain.
 - User-Friendly Design: An intuitive layout ensures ease of use for all users.
 - Responsive Design: Optimized for devices of all sizes for a seamless experience.
 
